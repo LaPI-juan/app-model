@@ -5,6 +5,3 @@ SimpleITK
 torch
 torchvision
 ultralytics
-textwrap
-uuid
-zipfile
