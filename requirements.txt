@@ -6,4 +6,3 @@ torch
 torchvision
 ultralytics
 opencv-python-headless
-opencv-python==0
