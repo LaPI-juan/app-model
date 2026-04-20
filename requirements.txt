@@ -1,7 +1,7 @@
 streamlit
 numpy
 matplotlib
-SimpleITK==2.3.1
+SimpleITK
 torch
 torchvision
 torch.nn
