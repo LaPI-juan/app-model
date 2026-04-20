@@ -1,7 +1,7 @@
 streamlit
 numpy
 matplotlib
-opencv-python
+opencv-python-headless
 SimpleITK
 torch
 torchvision
