@@ -1,0 +1,12 @@
+streamlit
+numpy
+matplotlib
+SimpleITK
+torch
+torchvision
+torch.nn
+ultralytics
+tempfile
+textwrap
+uuid
+zipfile
