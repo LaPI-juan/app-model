@@ -5,4 +5,5 @@ SimpleITK
 torch
 torchvision
 ultralytics
+opencv-python==0
 opencv-python-headless
